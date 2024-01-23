@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Sanket Patil</h1>
 <h3 align="center">A passionate Techie</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sanketpatil27" alt="sanketpatil27" /></a> </p>
+<img align="right" alt="coding" width="400" src="https://guruprasad.codes/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Fcoder.41289687.gif&w=750&q=75" >
 
 <p align="left"> <a href="https://twitter.com/sanketp_2704" target="blank"><img src="https://img.shields.io/twitter/follow/sanketp_2704?logo=twitter&style=for-the-badge" alt="sanketp_2704" /></a> </p>
 
