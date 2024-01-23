@@ -1,4 +1,4 @@
-![logo](https://www.marketplace.org/wp-content/uploads/2021/12/GettyImages-1294521676.jpeg?w=1000)
+![logo](https://media.licdn.com/dms/image/C4E12AQFqEHPp0vRqQA/article-cover_image-shrink_720_1280/0/1634393374732?e=2147483647&v=beta&t=KGgxFoFiiQ9yyp5gGEVHvUtGh1HN5z0vUY72kKZcE5M)
 
 <h1 align="center">Hi 👋, I'm Sanket Patil</h1>
 <h3 align="center">A passionate Techie</h3>
