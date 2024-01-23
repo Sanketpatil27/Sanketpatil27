@@ -1,4 +1,4 @@
-![logo](https://github.com/Sanketpatil27/Sanketpatil27/assets/90706710/7d8e8024-e0b3-4ccd-b232-2fb0a14e2ee8)
+![logo](https://www.marketplace.org/wp-content/uploads/2021/12/GettyImages-1294521676.jpeg?w=1000)
 
 <h1 align="center">Hi 👋, I'm Sanket Patil</h1>
 <h3 align="center">A passionate Techie</h3>
