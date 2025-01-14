@@ -3,7 +3,7 @@
 <h1 align="center">Hi 👋, I'm Sanket Patil</h1>
 <h3 align="center">A passionate Techie</h3>
 
-<img align="right" alt="coding" width="400" src="https://guruprasad.codes/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Fcoder.41289687.gif&w=750&q=75" >
+<img align="right" alt="coding" width="400" src="https://img.freepik.com/free-vector/cute-man-working-laptop-with-coffee-cartoon-vector-icon-illustration-people-technology-icon-concept-isolated-premium-vector-flat-cartoon-style_138676-3869.jpg?t=st=1736843733~exp=1736847333~hmac=055883cd33fec4278fe86a812d64e258baae5871e74c417f15b846c84c5d460e&w=740" >
 
 <p align="left"> <a href="https://twitter.com/sanketp_2704" target="blank"><img src="https://img.shields.io/twitter/follow/sanketp_2704?logo=twitter&style=for-the-badge" alt="sanketp_2704" /></a> </p>
 
